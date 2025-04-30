@@ -23,5 +23,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-репозиторий/image-parser.git
-cd image-parser
+git clone https://github.com/Ksenia2302/parser_image.git
+cd parser_image
